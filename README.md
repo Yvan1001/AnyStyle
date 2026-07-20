@@ -21,6 +21,15 @@ Building on these observations, we propose AnyStyle, a streamlined framework for
 
 ![Img](./asserts/teaser.png)
 
+<div align="left">
+
+## &#x1F4F0; News
+
+- **2026-07-20**: Released the full training and inference scripts.
+- **2026-07-06**: Released the [paper](https://arxiv.org/abs/2607.04677).
+---
+
+
 
 # 🛠️ Code Setup
 <div align="left">
